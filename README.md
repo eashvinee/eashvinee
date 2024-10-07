@@ -1,7 +1,3 @@
-Here’s a GitHub profile layout for a **Full Stack Web Developer** based on the provided structure from your blog:
-
----
-
 ### **👤 About Ashvinee Rai**
 
 Hi there! I'm Ashvinee Rai, a passionate Full Stack Web Developer with over 7 years of experience in crafting dynamic and responsive web applications. With a solid foundation in both front-end and back-end technologies, I thrive on turning complex problems into simple, user-friendly solutions. My expertise lies in PHP, Laravel, JavaScript, React.js, Vue.js, and various database technologies like MySQL and MongoDB. I am committed to continuous learning and exploring new technologies to enhance my skill set.
